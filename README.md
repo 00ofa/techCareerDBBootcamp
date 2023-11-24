@@ -1,0 +1,3 @@
+# techCareerDBBootcamp
+
+Ömer Faruk ALTIPARMAK
